@@ -2,3 +2,4 @@
 2. menambah justify content center pada baris 90
 3. menambah sistem grid pada container icon
 4. menghilangkan dan menambah beberapa item
+5. menghilangkan dan menambah ukuran supaya lebih responsif
