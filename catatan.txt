@@ -1,0 +1,2 @@
+1. menghapus style pada baris 89
+2. menambah justify content center pada baris 90
